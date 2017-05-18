@@ -14,6 +14,8 @@ gem 'rails', '~> 5.1.1'
 
 gem 'bcrypt', '~> 3.1.11'
 
+#gem 'puma'
+
 gem 'rails-controller-testing'
 
 gem 'sqlite3'
